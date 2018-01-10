@@ -1,3 +1,5 @@
+![RC Logo](http://res.cloudinary.com/madhatter/image/upload/v1515166371/logo-rc_cpamog.png)
+
 # My Gists / Code Snippets
 Since I found no clear route to my Gists from within my Github account, here's the url:
 
